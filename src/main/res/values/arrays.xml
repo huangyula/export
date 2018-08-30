@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="file_type_out">
+        <item>导出数据</item>
+        <!--<item>导出数据2</item>-->
+    </string-array>
+
+    <string-array name="file_type_value_out">
+        <item>EXPORT</item>
+
+    </string-array>
+
+
+    <string-array name="file_type_in">
+        <item>操作员</item>
+        <item>部门表</item>
+        <item>员工表</item>
+        <item>位置表</item>
+        <item>固定资产表</item>
+    </string-array>
+
+    <string-array name="file_type_value_in">
+        <item>USER</item>
+        <item>DEPARTMENT</item>
+        <item>EMPLOYEE</item>
+        <item>LOCATION</item>
+        <item>ASSET</item>
+
+    </string-array>
+
+    <string-array name="file_format_out">
+        <item>TXT</item>
+        <item>CSV</item>
+        <item>XLS</item>
+        <!--<item>DBF</item>-->
+    </string-array>
+
+    <string-array name="file_format_in">
+        <item>TXT</item>
+        <item>XLS</item>
+        <item>CSV</item>
+        <!--<item>DBF</item>-->
+    </string-array>
+
+    <string-array name="file_SeparateChar">
+        <item>,逗号</item>
+        <item>;分号</item>
+        <item>Tab</item>
+        <item>定长</item>
+        <item>回车符</item>
+    </string-array>
+
+    <string-array name="file_SeparateChar_value">
+        <item>,</item>
+        <item>;</item>
+        <item>Tab</item>
+        <item>Fixed</item>
+        <item>CR</item>
+    </string-array>
+
+
+
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Export</string>
+    <string name="app_button_save">保存</string>
+    <string name="app_button_back">返回</string>
+    <string name="reset">还原设置</string>
+    <string name="export_setting">导出设置</string>
+    <string name="file_type">文件类型：</string>
+    <string name="file_format">文件格式:</string>
+    <string name="sperator">分隔符:</string>
+    <string name="contain_totle">包含标题</string>
+    <string name="old_name">显示原名称</string>
+    <string name="titlename">标题名:</string>
+    <string name="displayname">显示名称</string>
+    <string name="xuhao">序号:</string>
+    <string name="length">长度:</string>
+    <string name="format">格式</string>
+    <string name="dialog_file_type">选择文件类型</string>
+    <string name="dialog_file_format">选择文件格式</string>
+    <string name="dialog_select_sperator">选择分隔符</string>
+    <string name="export1">导出</string>
+    <string name="save_successfully">保存成功</string>
+    <string name="reset_success">还原设置成功</string>
+    <string name="setting_file_format">文件格式设置</string>
+    <string name="file_import">导入</string>
+    <string name="cancel">取消</string>
+    <string name="import_sheet_no">工作表序号:</string>
+    <string name="import_goods_data_success">导入商品信息成功</string>
+    <string name="import_setting">导入设置</string>
+
+</resources>
